@@ -4,5 +4,5 @@ Inspired by [Daniel Shiffman's](https://www.youtube.com/user/shiffman) teachings
 
 
 ### List of sketches:
-1. Arriving A
-2. Bewildered B
+1. [Arriving A](https://mukulkhanna.github.io/generative-typography/Arriving%20A/)
+2. [Bewildered B](https://mukulkhanna.github.io/generative-typography/Bewildered%20B/)
